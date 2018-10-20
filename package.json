@@ -1,0 +1,16 @@
+{
+  "name": "html5-and-css3-project-1",
+  "version": "1.0.0",
+  "description": "A simple single page site for food delivery service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sumesh Majhi",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "run-sequence": "^2.2.1"
+  }
+}
