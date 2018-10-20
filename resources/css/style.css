@@ -46,8 +46,7 @@ h3 {
 }
 
 h1 {
-    margin: 0;
-    margin-bottom: 20px;
+    margin: 0 0 20px;
     color: #fff;
     font-size: 240%;
     word-spacing: 4px;
@@ -73,8 +72,7 @@ h2::after {
     background-color: #e67e22;
     content: ' ';
     width: 100px;
-    margin: 0 auto;
-    margin-top: 30px;
+    margin: 30px auto 0;
 }
 
 /* ------ PARAGRAPHS ------- */
@@ -144,10 +142,9 @@ h2::after {
 /* ------------------------------------ */
 
 header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(img/hero.jpg);
     background-size: cover;
-    background-position: center;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(img/hero.jpg) center;
     height: 100vh;
 }
 
