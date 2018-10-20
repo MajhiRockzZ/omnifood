@@ -13,7 +13,7 @@
     <a href="https://majhirockzz.github.io/HTML5-and-CSS3-Project-1/">
         <img src="https://img.shields.io/badge/site-up%20and%20running-lightgrey.svg" alt="site">
     </a>
-    <a href="#"><img src="https://img.shields.io/github/license/mashape/apistatus.svg"></a>
+    <a href="https://github.com/MajhiRockzZ/HTML5-and-CSS3-Project-1/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg"></a>
     <a href="https://github.com/MajhiRockzZ/HTML5-and-CSS3-Project-1/">
         <img src="https://img.shields.io/badge/repo%20size-266%20KB-blue.svg">
     </a>
