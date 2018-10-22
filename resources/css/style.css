@@ -198,8 +198,6 @@ header {
     background-size: cover;
     background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))),
     url(img/hero.jpg) center;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(img/hero.jpg) center;
     height: 100vh;
     background-attachment: fixed;
 }
@@ -266,7 +264,7 @@ header {
     width: 100%;
     background-color: rgba(255, 255, 255, 0.98);
     -webkit-box-shadow: 0 2px 2px #efefef;
-            box-shadow: 0 2px 2px #efefef;
+    box-shadow: 0 2px 2px #efefef;
     z-index: 9999;
 }
 
@@ -329,8 +327,6 @@ header {
     transform: scale(1.15);
     -webkit-transition: opacity 0.5s, -webkit-transform 0.5s;
     transition: opacity 0.5s, -webkit-transform 0.5s;
-    transition: transform 0.5s, opacity 0.5s;
-    transition: transform 0.5s, opacity 0.5s, -webkit-transform 0.5s;
 }
 
 .meal-photo img:hover {
@@ -637,12 +633,12 @@ footer p {
 .js--wp-3 {
     opacity: 0;
     -webkit-animation-duration: 1s;
-            animation-duration: 1s;
+    animation-duration: 1s;
 }
 
 .js--wp-4 {
     -webkit-animation-duration: 1s;
-            animation-duration: 1s;
+    animation-duration: 1s;
 }
 
 .js--wp-1.animated,
