@@ -256,6 +256,19 @@ header {
     border-bottom: 2px solid #e67e22;
 }
 
+/* Mobile Nav */
+.mobile-nav-icon {
+    float: right;
+    margin-top: 30px;
+    cursor: pointer;
+    display: none;
+}
+
+.mobile-nav-icon ion-icon {
+    font-size: 200%;
+    color: #fff;
+}
+
 /* Sticky nav */
 .sticky {
     position: fixed;

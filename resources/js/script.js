@@ -80,4 +80,24 @@ $(document).ready(function () {
     }, {
         offset: '50%'
     });
+
+    /**
+     * Mobile Nav
+     */
+    $('.js--nav-icon').click(function () {
+        var nav = $('.js--main-nav');
+        nav.slideToggle(200)
+
+        // var icon = $('js--nav-icon i');
+
+        /*
+        if (icon.hasClass('menu')) {
+            icon.addClass('close');
+            icon.removeClass('menu');
+        } else {
+            icon.addClass('menu');
+            icon.removeClass('close');
+        }
+        */
+    });
 });
