@@ -24,6 +24,49 @@
         width: 80%;
         margin-left: 10%;
     }
+
+    .steps-box {
+        margin-top: 10px;
+    }
+
+    .steps-box:last-child {
+        margin-top: 10px;
+    }
+
+    .works-step {
+        margin-bottom: 40px;
+    }
+
+    .works-step:last-of-type {
+        margin-bottom: 60px;
+    }
+
+    .app-screen {
+        width: 50%;
+    }
+
+    .icon-small {
+        width: 20px;
+        margin-right: 5px;
+    }
+
+    .city-feature {
+        font-size: 90%;
+    }
+
+    .plan-box {
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    .plan-price {
+        font-size: 300%;
+    }
+
+    .contact-form {
+        width: 80%;
+    }
+
 }
 
 /* Small phones to small tablets from 481px to 767px*/
